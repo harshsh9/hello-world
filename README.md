@@ -1,4 +1,3 @@
 # hello-world
-hey hello world
-the time has arrived to commit
+hey hello wo time has arrived to commit
 no not yet
